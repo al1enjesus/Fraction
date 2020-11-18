@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Il/Code/C++/fraction/fraction.cpp" "/cygdrive/c/Users/Il/Code/C++/fraction/cmake-build-debug/CMakeFiles/fraction.dir/fraction.cpp.o"
-  "/cygdrive/c/Users/Il/Code/C++/fraction/main.cpp" "/cygdrive/c/Users/Il/Code/C++/fraction/cmake-build-debug/CMakeFiles/fraction.dir/main.cpp.o"
+  "C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/fraction.cpp" "C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/cmake-build-debug/CMakeFiles/fraction.dir/fraction.cpp.obj"
+  "C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/main.cpp" "C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/cmake-build-debug/CMakeFiles/fraction.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

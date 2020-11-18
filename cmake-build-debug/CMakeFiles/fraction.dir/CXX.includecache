@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Il/Code/C++/fraction/fraction.h
+C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/fraction.cpp
+fraction.h
+C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/fraction.h
+algorithm
+-
 
-/cygdrive/c/Users/Il/Code/C++/fraction/main.cpp
+C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/fraction.h
+
+C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/main.cpp
 iostream
 -
 fraction.h
-/cygdrive/c/Users/Il/Code/C++/fraction/fraction.h
+C:/Users/Ilya/Documents/GitHub/Laboratory_fraction/fraction.h
 

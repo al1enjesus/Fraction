@@ -4,7 +4,6 @@
 
 #include "fraction.h"
 #include <algorithm>
-#include <iostream>
 
 Fraction::Fraction(long num, long denom) {
   numerator = num;
